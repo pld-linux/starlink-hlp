@@ -5,7 +5,8 @@ Version:	3.3_6.218
 Release:	1
 License:	GPL
 Group:		Applications/Text
-Source0:	ftp://ftp.starlink.rl.ac.uk/pub/ussc/store/hlp/hlp.tar.Z
+#Source0:	ftp://ftp.starlink.rl.ac.uk/pub/ussc/store/hlp/hlp.tar.Z
+Source0:	hlp.tar.Z
 # Source0-md5:	ce5d0d3859e31f37429b60f10e8200be
 URL:		http://www.starlink.rl.ac.uk/static_www/soft_further_HLP.html
 BuildRequires:	gcc-g77
