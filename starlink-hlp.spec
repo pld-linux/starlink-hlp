@@ -34,7 +34,7 @@ System Starlink HLP to zbiór podprogramów i narzêdzi pozwalaj±cych
 aplikacjom uzyskiwaæ nazwy elementów z hierarchicznie zorganizowanej
 biblioteki tekstu.
 
-U³atwieniem jest funkcjonalno¶æ bardzo podona do tej z systemu pomocy
+U³atwieniem jest funkcjonalno¶æ bardzo podobna do tej z systemu pomocy
 systemów VAX/VMS. G³ówne ró¿nice polegaj± na tym, ¿e system Starlink
 HLP:
  - jest zaimplementowany w sposób przeno¶ny, nie przywi±zany do VAX-a
