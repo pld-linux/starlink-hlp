@@ -23,9 +23,9 @@ hierarchically-arranged library of text.
 
 The facility is functionally very similar to the VAX/VMS Help system.
 The major differences are that the Starlink HLP system:
- - is implemented in a portable way and is not tied to the VAX, and
- - allows independent creation of multiple libraries which are bound
-   together at run-time and appear to the user as a single ``tree''.
+- is implemented in a portable way and is not tied to the VAX, and
+- allows independent creation of multiple libraries which are bound
+  together at run-time and appear to the user as a single ``tree''.
 The system is written in a free-standing manner and does not call any
 other Starlink packages.
 
@@ -37,10 +37,10 @@ biblioteki tekstu.
 U³atwieniem jest funkcjonalno¶æ bardzo podobna do tej z systemu pomocy
 systemów VAX/VMS. G³ówne ró¿nice polegaj± na tym, ¿e system Starlink
 HLP:
- - jest zaimplementowany w sposób przeno¶ny, nie przywi±zany do VAX-a
- - pozwala na niezale¿ne tworzenie wielu bibliotek wi±zanych razem w
-   czasie dzia³ania, pokazuj±cych siê u¿ytkownikowi jako pojedyncze
-   "drzewo".
+- jest zaimplementowany w sposób przeno¶ny, nie przywi±zany do VAX-a
+- pozwala na niezale¿ne tworzenie wielu bibliotek wi±zanych razem w
+  czasie dzia³ania, pokazuj±cych siê u¿ytkownikowi jako pojedyncze
+  "drzewo".
 System jest napisany jako samodzielny i nie wywo³uje innych pakietów
 Starlinka.
 
