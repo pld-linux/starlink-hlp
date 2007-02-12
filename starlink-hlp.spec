@@ -1,5 +1,5 @@
 Summary:	HLP - Interactive help system
-Summary(pl):	HLP - interaktywny system pomocy
+Summary(pl.UTF-8):   HLP - interaktywny system pomocy
 Name:		starlink-hlp
 Version:	3.3_6.218
 Release:	1
@@ -29,42 +29,42 @@ The major differences are that the Starlink HLP system:
   system is written in a free-standing manner and does not call any
   other Starlink packages.
 
-%description -l pl
-System Starlink HLP to zbiór podprogramów i narzêdzi pozwalaj±cych
-aplikacjom uzyskiwaæ nazwy elementów z hierarchicznie zorganizowanej
+%description -l pl.UTF-8
+System Starlink HLP to zbiÃ³r podprogramÃ³w i narzÄ™dzi pozwalajÄ…cych
+aplikacjom uzyskiwaÄ‡ nazwy elementÃ³w z hierarchicznie zorganizowanej
 biblioteki tekstu.
 
-U³atwieniem jest funkcjonalno¶æ bardzo podobna do tej z systemu pomocy
-systemów VAX/VMS. G³ówne ró¿nice polegaj± na tym, ¿e system Starlink
+UÅ‚atwieniem jest funkcjonalnoÅ›Ä‡ bardzo podobna do tej z systemu pomocy
+systemÃ³w VAX/VMS. GÅ‚Ã³wne rÃ³Å¼nice polegajÄ… na tym, Å¼e system Starlink
 HLP:
-- jest zaimplementowany w sposób przeno¶ny, nie przywi±zany do VAX-a
-- pozwala na niezale¿ne tworzenie wielu bibliotek wi±zanych razem w
-  czasie dzia³ania, pokazuj±cych siê u¿ytkownikowi jako pojedyncze
-  "drzewo". System jest napisany jako samodzielny i nie wywo³uje innych
-  pakietów Starlinka.
+- jest zaimplementowany w sposÃ³b przenoÅ›ny, nie przywiÄ…zany do VAX-a
+- pozwala na niezaleÅ¼ne tworzenie wielu bibliotek wiÄ…zanych razem w
+  czasie dziaÅ‚ania, pokazujÄ…cych siÄ™ uÅ¼ytkownikowi jako pojedyncze
+  "drzewo". System jest napisany jako samodzielny i nie wywoÅ‚uje innych
+  pakietÃ³w Starlinka.
 
 %package devel
 Summary:	Development files for HLP library
-Summary(pl):	Pliki programistyczne biblioteki HLP
+Summary(pl.UTF-8):   Pliki programistyczne biblioteki HLP
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 
 %description devel
 Development files for HLP library.
 
-%description devel -l pl
+%description devel -l pl.UTF-8
 Pliki programistyczne biblioteki HLP.
 
 %package static
 Summary:	Static Starlink HLP library
-Summary(pl):	Statyczna biblioteka Starlink HLP
+Summary(pl.UTF-8):   Statyczna biblioteka Starlink HLP
 Group:		Development/Libraries
 Requires:	%{name}-devel = %{version}-%{release}
 
 %description static
 Static Starlink HLP library.
 
-%description static -l pl
+%description static -l pl.UTF-8
 Statyczna biblioteka Starlink HLP.
 
 %prep
