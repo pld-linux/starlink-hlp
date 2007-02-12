@@ -1,5 +1,5 @@
 Summary:	HLP - Interactive help system
-Summary(pl.UTF-8):   HLP - interaktywny system pomocy
+Summary(pl.UTF-8):	HLP - interaktywny system pomocy
 Name:		starlink-hlp
 Version:	3.3_6.218
 Release:	1
@@ -45,7 +45,7 @@ HLP:
 
 %package devel
 Summary:	Development files for HLP library
-Summary(pl.UTF-8):   Pliki programistyczne biblioteki HLP
+Summary(pl.UTF-8):	Pliki programistyczne biblioteki HLP
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 
@@ -57,7 +57,7 @@ Pliki programistyczne biblioteki HLP.
 
 %package static
 Summary:	Static Starlink HLP library
-Summary(pl.UTF-8):   Statyczna biblioteka Starlink HLP
+Summary(pl.UTF-8):	Statyczna biblioteka Starlink HLP
 Group:		Development/Libraries
 Requires:	%{name}-devel = %{version}-%{release}
 
